@@ -1,3 +1,0 @@
-[submodule "mypkg"]
-	path = mypkg
-	url = https://github.com/Takumi-Fukazawa/src/tree/master
